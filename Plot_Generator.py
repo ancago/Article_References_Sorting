@@ -8,9 +8,6 @@ import matplotlib.pyplot as plt
 
 class PlotGenerator:
 
-
-
-
     def __init__(self, filename):
         self.filename = filename
 
